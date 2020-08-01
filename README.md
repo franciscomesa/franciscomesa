@@ -13,7 +13,7 @@ Hi there, I’m Francisco Mesa, full stack developer and online product develope
 
 
 ## ✅ Work done
-- ⚙️ CMS and sysadmin eldia.es (2000 - 2019);
+- ⚙️ CMS and sysadmin at eldia.es (2000 - 2019);
 - 👨‍🔬 Data analyst;
 - 📺 Television space on technology and entrepreneurship (7 years);
 - 📻 Weekly radio program on entrepreneurship, technology, digital culture and innovation (6 years) [@conectatealdia](https://www.conectatealdia.com);
